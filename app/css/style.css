@@ -1,0 +1,59 @@
+.input-field {
+    border-bottom: black solid;
+    padding-bottom: 30px;
+}
+
+html {
+    background: lightgreen;
+    color: darkgreen;
+}
+
+h4#text {
+    color: black;
+}
+
+strong {
+    border-bottom: solid black;
+}
+
+h2#title {
+    border-bottom: solid black;
+    padding-bottom: 10px;
+}
+
+h2,
+h3 {
+    color: darkgreen;
+}
+
+h5 {
+    font-size: large;
+}
+
+body {
+    background-color: lightgreen;
+}
+
+img#match-img {
+    width: 150px;
+}
+
+body {
+    background-color: lightgreen;
+}
+
+.jumbotron {
+    background-color: lightgreen;
+}
+
+#btn {
+    background-color: lightgreen;
+}
+
+h4 {
+    color: darkgreen;
+}
+
+#h1 {
+    color: darkgreen;
+}
