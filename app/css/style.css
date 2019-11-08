@@ -1,5 +1,5 @@
 .input-field {
-    border-bottom: black solid;
+    border-bottom: darkgreen;
     padding-bottom: 30px;
 }
 
@@ -13,11 +13,11 @@ h4#text {
 }
 
 strong {
-    border-bottom: solid black;
+    border-bottom: darkgreen;
 }
 
 h2#title {
-    border-bottom: solid black;
+    border-bottom: darkgreen;
     padding-bottom: 10px;
 }
 
