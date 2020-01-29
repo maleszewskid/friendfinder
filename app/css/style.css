@@ -1,11 +1,12 @@
 .input-field {
-    border-bottom: darkgreen;
+    border-bottom: #20639c;
     padding-bottom: 30px;
 }
 
 html {
-    background: lightgreen;
-    color: darkgreen;
+    background: #3195b8;
+    color: #20639c;
+    background-image: url(Cool-Background.jpg);
 }
 
 h4#text {
@@ -13,17 +14,17 @@ h4#text {
 }
 
 strong {
-    border-bottom: darkgreen;
+    border-bottom: #20639c;
 }
 
 h2#title {
-    border-bottom: darkgreen;
+    border-bottom: #20639c;
     padding-bottom: 10px;
 }
 
 h2,
 h3 {
-    color: darkgreen;
+    color: #20639c;
 }
 
 h5 {
@@ -31,7 +32,7 @@ h5 {
 }
 
 body {
-    background-color: lightgreen;
+    background-color: #3195b8;
 }
 
 img#match-img {
@@ -39,21 +40,21 @@ img#match-img {
 }
 
 body {
-    background-color: lightgreen;
+    background-color: #3195b8;
 }
 
 .jumbotron {
-    background-color: lightgreen;
+    background-color: #3195b8;
 }
 
 #btn {
-    background-color: lightgreen;
+    background-color: #3195b8;
 }
 
 h4 {
-    color: darkgreen;
+    color: #20639c;
 }
 
 #h1 {
-    color: darkgreen;
+    color: #20639c;
 }
