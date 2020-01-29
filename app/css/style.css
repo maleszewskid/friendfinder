@@ -3,7 +3,7 @@
     padding-bottom: 30px;
 }
 
-html {
+body {
     background: #3195b8;
     color: #20639c;
     background-image: url(Cool-Background.jpg);
@@ -31,9 +31,6 @@ h5 {
     font-size: large;
 }
 
-body {
-    background-color: #3195b8;
-}
 
 img#match-img {
     width: 150px;
